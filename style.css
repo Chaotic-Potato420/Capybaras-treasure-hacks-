@@ -116,7 +116,7 @@
 				left: 50%;
 				top: 85%;
 				font-size: 60px;
-				color: #008080;
+				color: blanchedalmond;
 				animation: arrows 1s infinite;
 			}
 			@keyframes arrows{
